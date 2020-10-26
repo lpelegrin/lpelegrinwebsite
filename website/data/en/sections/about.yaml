@@ -1,0 +1,77 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: IT Freelance Enginieer 
+# your company information
+#company:
+#  name: Freelancer
+#  url: "https://lucaspelegrin.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV.LucasPelegrin.eng.pdf"
+
+# a summary about you
+summary: "A Constant learner who don't esitate to accept challenges. I work drived by passion and guided by experience. I commit to results and I lead thanks to the errors I have made in the past and learned afterwards."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "contact@lucaspelegrin.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/lpelegrin"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/3046694/lucaspc"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/lucas-pelegrin-caparros-02b8b8a2/"
+
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Cloud Architect
+  percentage: 100
+  color: blue
+- name: DevSecOps
+  percentage: 100
+  color: yellow
+- name: SRE
+  percentage: 100
+  color: pink
+- name: Pathmaker
+  percentage: 100
+  color: green
+- name: Fast Learner
+  percentage: 100
+  color: sky
+- name: Resilient
+  percentage: 100
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

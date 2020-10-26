@@ -1,0 +1,17 @@
+# section information
+section:
+  name: Certifications
+  id: skills
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: AWS Certified Solutions Architect – Associate
+  icon: "sections/certifications/aws.png"
+  summary: "Click for certification validation."
+  url: "https://www.youracclaim.com/badges/ee9bd3bb-cc86-4503-babe-2fb62e5b4f90/public_url"

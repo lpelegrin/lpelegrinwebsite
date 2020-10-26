@@ -1,0 +1,84 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Kubernetes
+  icon: "sections/skills/kubernetes.png"
+  summary: "Capable of administrate, manage and deploy applications on Kubernetes."
+  url: "https://kubernetes.io/"
+
+- name: Docker
+  icon: "sections/skills/docker.svg"
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage buildings."
+  url: "https://www.docker.com/"
+
+- name: Helm
+  icon: "sections/skills/helm.jpg"
+  summary: "Experienced with helm projects packages, generate templates and versioning them."
+  url: "https://helm.sh/"
+
+- name: Python Development
+  icon: "sections/skills/python.jpg"
+  summary: "It is my main language for professional development and scripting."
+  url: "https://www.python.org/"
+
+- name: Django Development
+  icon: "sections/skills/django.png"
+  summary: "Main python framework used for web applications. Capable of writing maintainable & scalable applications."
+  url: "https://www.djangoproject.com/"
+
+- name: Go Development
+  icon: "sections/skills/go.png"
+  summary: "Using as the secondary language for professional development and scripting."
+  url: "https://golang.org/project/"
+
+- name: Cloud Computing
+  icon: "sections/skills/cloud.png"
+  summary: "AWS Cloud Certified but I worked with most of the major clouds such as Azure & DigitalOcean."
+
+- name: Linux
+  icon: "sections/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts and custom tools."
+
+- name: CI / CD
+  summary: "Applying all sort of strategies drive the product constrains lead by bussiness requirements."
+  url: "https://sites.google.com/a/jezhumble.net/devops-manifesto/"  
+
+- name: Jenkins
+  icon: "sections/skills/jenkins.jpeg"
+  summary: "Capable to write any sort of script to implement CI & CD strategies."
+  url: "https://www.jenkins.io/"
+
+- name: Ansible
+  icon: "sections/skills/ansible.png"
+  summary: "Prefered tool used for sysadmin & configuration management."
+  url: "https://www.ansible.com/"
+
+- name: Terraform
+  icon: "sections/skills/terraform.png"
+  summary: "Used to implement projects resources automatism to easyly replicate environments."
+  url: "https://www.terraform.io/"
+
+- name: Prometheus
+  icon: "sections/skills/prometheus.png"
+  summary: "Experienced to all sort of prometheus exporters to import data from everywhere. I've created custom exporters."
+  url: "https://prometheus.io/"
+
+- name: Grafana
+  icon: "sections/skills/grafana.png"
+  summary: "My default data dashboard too to visualize data generated. Mostly from data stored in Prometheus."
+  url: "https://grafana.com/"  
+
+- name: Git
+  icon: "sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
