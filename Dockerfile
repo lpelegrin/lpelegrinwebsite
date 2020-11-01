@@ -1,6 +1,6 @@
-FROM jojomi/hugo
+FROM jojomi/hugo:0.76.5
 
 COPY website /src
 WORKDIR /src
 EXPOSE 1313
-CMD hugo server --bind 0.0.0.0 --baseURL "http://lpelegrin.com"
+CMD hugo server --bind 0.0.0.0 

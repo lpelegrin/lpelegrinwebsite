@@ -1,4 +1,4 @@
-baseURL: https://lpelegrin.com/
+baseURL: https://lucaspelegrin.com/
 languageCode: en-us
 title: "Lucas Pelegrin"
 theme: "toha"
@@ -24,7 +24,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: UA-XXXXXXXXX-X
+googleAnalytics: UA-181547918-1
 
 # Enable Disqus forum
 disqusShortname: does-not-exist
@@ -46,7 +46,7 @@ params:
     favicon: webassets/favicon.svg
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/lpelegrin/lpelegrinwebsite
+  #gitRepo: https://github.com/lpelegrin/lpelegrinwebsite/webiste
 
   # specify whether you want to write blog post or not
   enableBlogPost: true

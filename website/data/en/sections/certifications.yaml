@@ -1,15 +1,13 @@
 # section information
 section:
   name: Certifications
-  id: skills
+  id: certifications
   enable: true
   weight: 5
   showOnNavbar: true
-  # Can optionally hide the title in sections
+  template: sections/skills.html
   # hideTitle: true
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
 - name: AWS Certified Solutions Architect – Associate
   icon: "sections/certifications/aws.png"

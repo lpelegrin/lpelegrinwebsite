@@ -53,7 +53,7 @@ softSkills:
 - name: Cloud Architect
   percentage: 100
   color: blue
-- name: DevSecOps
+- name: DevSecNoOps
   percentage: 100
   color: yellow
 - name: SRE
