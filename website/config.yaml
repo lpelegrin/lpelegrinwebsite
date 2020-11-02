@@ -1,4 +1,4 @@
-baseURL: https://lucaspelegrin.com/
+baseURL: https://lucaspelegrin.com
 languageCode: en-us
 title: "Lucas Pelegrin"
 theme: "toha"
@@ -27,7 +27,7 @@ markup:
 googleAnalytics: UA-181547918-1
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: lucaspelegrin-com-1
 
 # Enable global emoji support
 enableEmoji: true
@@ -57,4 +57,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false

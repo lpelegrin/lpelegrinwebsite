@@ -1,4 +1,4 @@
-IMAGE_NAME=lpelegrin/lpelegrinsite
+IMAGE_NAME=lpelegrin/lpelegrinwebsite
 CONTAINER_NAME=hugo
 
 
